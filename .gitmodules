@@ -1,0 +1,9 @@
+[submodule "ThirtParts/glfw"]
+	path = ThirtParts/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "AlbikarEngine/thirtParts/glm"]
+	path = AlbikarEngine/thirtParts/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "ThirtParts/glm"]
+	path = ThirtParts/glm
+	url = https://github.com/g-truc/glm.git
